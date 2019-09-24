@@ -1,0 +1,23 @@
+{
+  "hosting": {
+    "public": "dist/fasma",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+
+    "redirects": [ {
+     
+      "source": "https://fasma.cl",
+      "destination": "https://www.fasma.cl",
+      "type": 301
+    } ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}

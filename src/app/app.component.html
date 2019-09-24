@@ -1,0 +1,318 @@
+
+
+
+
+ 
+  <div class="footer">
+
+Proyecto financiado por Fondart 2019
+
+    <img src="assets/fondart.svg" width="70px">
+  </div>
+  
+  
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+
+  <a class="navbar-brand" href="#">
+
+      <img src="assets/fasma.svg" width="100" height="30" alt="">
+  </a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" (click)="toggleCollapse()" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  
+    <!-- other navbar code omitted -->
+   
+  <div class="collapse navbar-collapse" id="navbarSupportedContent" [class.show]="show">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="#">   <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+       <a   class="nav-link" (click)="toggleWindowProyecto()"><img src="assets/circle.svg" width="15" height="15" alt="" placement="bottom" ngbTooltip="Proyecto"></a>
+      </li>
+
+      <li class="nav-item">
+        <a   class="nav-link" (click)="catzClick('funcion')"><img src="assets/hexagon.svg" width="15" height="15" alt="" placement="bottom" ngbTooltip="Proceso"></a>
+       </li>
+
+      <li class="nav-item">
+        <a   class="nav-link"  (click)="toggleWindowEquipo()"><img src="assets/square.svg" width="15" height="15" alt="" placement="bottom" ngbTooltip="Equipo"></a>
+       </li>
+
+
+       <li class="nav-item">
+        <a   class="nav-link" (click)="catzClick('funcion')"><img src="assets/triangle.svg" width="15" height="15" alt="" placement="bottom" ngbTooltip="Fechas"></a>
+       </li>
+
+       
+
+
+      <!-- <li class="nav-item">
+        <a   class="nav-link" (click)="catzClick('investigacion')" >Proyecto Fasma</a>
+       </li>
+
+
+       <li class="nav-item">
+        <a   class="nav-link" (click)="catzClick('investigacion')">Equipo</a>
+       </li>
+
+
+       <li class="nav-item">
+        <a   class="nav-link" (click)="catzClick('investigacion')">Proximas Presentaciones</a>
+       </li>-->
+
+
+     
+  
+   
+    </ul>
+   <!-- <form class="form-inline my-2 my-lg-0">
+      <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+      <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+    </form>-->
+  </div>
+</nav>
+
+<router-outlet></router-outlet>
+
+<!--<agm-map (mapReady)="onMapReady()" [latitude]="lat" [longitude]="lng" [styles]="styles" [backgroundColor]="'black'" [fitBounds]="latlngBounds" [streetViewControl]="false">
+
+    <agm-polyline [strokeColor]="post?.primary" *ngFor="let post of posts | filterBy: ['cat']: catz"  [strokeWeight]="1" [geodesic]="true"  [strokeOpacity]="0.3">
+      <agm-polyline-point [latitude]="convertStringToNumber(post?.lat)" [longitude]="convertStringToNumber(post?.lng)"></agm-polyline-point>
+      <agm-polyline-point [latitude]="convertStringToNumber(post?.nextlat)" [longitude]="convertStringToNumber(post?.nextlng)"></agm-polyline-point>
+      </agm-polyline>-->
+
+
+  
+
+ <!-- <agm-marker [latitude]="lat" [longitude]="lng" >
+
+    <agm-info-window><span (click)="toggleWindow()"> bjork</span>
+    
+      <button   (click)="toggleWindow()">hurrah</button></agm-info-window>
+
+    
+
+
+
+  </agm-marker >-->
+
+ <!-- <agm-marker  *ngFor="let post of posts  | filterBy: ['cat']:catz"  [latitude]="post?.lat" [longitude]="post?.lng" [iconUrl]="post?.icon" (markerClick)="toggleWindow(this.post?.title, this.post?.imageurl, this.post?.videourl, this.post?.audiourl, this.post?.author, this.post?.date, this.post?.category, this.post?.subtitle, this.post?.description)"> -->
+
+   <!-- <agm-snazzy-info-window [maxWidth]="600" [closeWhenOthersOpen]="true" [placement]="'right'"
+    
+    
+ 
+   
+    (isOpenChange)="snazzyInfoWindowIsToggled($event)">
+      <ng-template>
+      
+<button   (onclick)="toggleWindow()">hurrah</button>
+       <span (click)="toggleWindow()"> {{post?.title}}</span>
+      </ng-template>
+    </agm-snazzy-info-window>-->
+   <!--</agm-marker>
+
+</agm-map>-->
+
+
+
+
+<div class="popupz" *ngIf="!hidden">
+  
+    <img src="assets/img/ex.svg" class="closeit" width="30" height="30" alt="" (click)="toggleWindow()"> 
+    
+     
+  <div class="container holdercont">
+     
+<div class="row align-items-center holdercont">
+
+  <div class="col">
+
+ <div class="row">
+
+   <div class="col-12 col-md-9 ">  
+
+    <div *ngIf="this.proyecto" class="bdy">
+
+
+      <p>Proyecto Fasma ha buscado indagar en la aparici&oacute;n del cuerpo/soma, desplegando metodolog&iacute;as que incluyen el trabajo interdisciplinar con el movimiento, el sonido, la luz y el espacio, entendidos todos como cuerpos y, adem&aacute;s, desarrollando la experimentaci&oacute;n a trav&eacute;s de t&eacute;cnicas poco convencionales en el arte como la regresi&oacute;n a vidas pasadas, mindfulness, focusing y la respiraci&oacute;n del yoga Kundalini, en la b&uacute;squeda de tantear el espesor y las posibilidades de comprensi&oacute;n de esta corpus/fasma: su (des)aparecer. </p>
+
+      <p>Fasma se ha enfocado en el suceso del encuentro para crear colectivamente un solo de danza alej&aacute;ndose de los modos habituales de producci&oacute;n. Por una parte, la metodolog&iacute;a interdisciplinar se ha orientado a encontrar un lugar de enunciaci&oacute;n particular para cada disciplina; y asimismo las t&eacute;cnicas practicadas han generado una experiencia corporal compartida, desde la cual cada investigador/a despliega libremente sus propuestas creativas en resonancia al cuerpo/soma com&uacute;n.</p>
+      
+      <p>El resultado esc&eacute;nico deviene, parafraseando a las Landscape Plays de Gertrude Stein, en una suerte de paisaje viviente, en el que todos los elementos (movimiento/sonido/luz/objetos) articulan un ecosistema, en el cual participa la percepci&oacute;n de las/los espectadores(as). Esta comunidad viva se plantea en permanente proceso de transformaci&oacute;n, a partir del traspaso de peque&ntilde;os umbrales, que van determinando la evoluci&oacute;n del dispositivo.</p>
+      
+      <p>M&aacute;s all&aacute; de la puesta esc&eacute;nica, el proyecto se articula como una experiencia expandida, al modo de variaciones, que se manifiestan en una serie de actividades que abordan de un modo diverso la pregunta por el aparecer: una residencia abierta del proceso de creaci&oacute;n interdisciplinar, la exhibici&oacute;n a p&uacute;blico de los materiales art&iacute;sticos elaborados en el proceso de investigaci&oacute;n, conversatorios en los que se abrir&aacute;n a la comunidad los procesos y metodolog&iacute;as y, finalmente, la presentaci&oacute;n de la obra esc&eacute;nica Fasma. Todas estas actividades operan a modo de constelaciones, en la que cada una de las acciones es un punto de luz, un gesto, una relaci&oacute;n o aproximaci&oacute;n posible a la paradoja del fasma, cuyo centro permanece vac&iacute;o, incierto: paradoja y/o apor&iacute;a, lejano y/o aqu&iacute;, virtual, inaccesible.</p>
+      
+      <p> <b>ANTECEDENTES DEL PROCESO</b></p><p> En sus Ensayos sobre la aparici&oacute;n I, Georges Didi-Huberman nos plantea la paradoja del fasma, esto es, de aquel insecto que habita en un vivarium y que &ldquo;ha convertido su propio cuerpo en el decorado en el que se esconde, incorporando ese decorado en el que nace&rdquo;. Inspirado en esta reflexi&oacute;n, el Proyecto Fasma aborda la dial&eacute;ctica entre el cuerpo y la mirada, cuestionando las formas de aparici&oacute;n de la corporalidad en el arte occidental, centradas en el retrato, la verticalidad y la completitud de la imagen, para re-formular la pregunta: &iquest;c&oacute;mo podr&iacute;a un cuerpo aparecer?   Proyecto Fasma pretende poner en tensi&oacute;n una concepci&oacute;n tradicional &ldquo;objetiva&rdquo; del cuerpo, es decir, del cuerpo comprendido como un objeto, como ha sido propuesta hist&oacute;ricamente a partir de la biolog&iacute;a y las artes mim&eacute;ticas, que han desarrollado una representaci&oacute;n distanciada del mismo, al que se considera una cosa, contrastando esta visi&oacute;n con la perspectiva metodol&oacute;gica de la fenomenolog&iacute;a y las pr&aacute;cticas som&aacute;ticas, que plantean una experiencia de la corporalidad en &ldquo;primera persona&rdquo;, favoreciendo su &ldquo;presentaci&oacute;n&rdquo;, auto-observaci&oacute;n, descubrimiento y modificaci&oacute;n, esto es, la comprensi&oacute;n del cuerpo y, por extensi&oacute;n, el sujeto, de un modo experiencial subjetivo. Como sostiene Maurice Merleau-Ponty en su Fenomenolog&iacute;a de la Percepci&oacute;n, el sujeto aparece en el mundo como conciencia encarnada. La conciencia y el cuerpo no son cosas separadas. El cuerpo es el lugar de la conciencia. Este car&aacute;cter doble, material e intelectual de su existencia constituye el fundamento de la vinculaci&oacute;n del humano con lo real.</p>
+      
+      <p>La aparici&oacute;n del fasma en el vivario es fenomenol&oacute;gica antes que objetual, ya que ocurre en una interrelaci&oacute;n subjetiva en la que el observador es visto por aquello que observa. Discierne las formas al tiempo que es revelado por aquello que ve, ya que el mirar siempre est&aacute; tamizado, enfocado por los sujetos, en un encuadre que oscila entre lo cultural, lo consciente y el deseo, en un mundo en el que todo est&aacute; abierto a la mirada.</p>
+      
+      <p>Esta consideraci&oacute;n del cuerpo como soma (cuerpo viviente) tiene una importancia radical para el campo de las artes, posibilitando diversos modos de considerar esta corporalidad no s&oacute;lo como un espacio de exploraci&oacute;n o soporte de la pr&aacute;ctica art&iacute;stica si no por, sobre todo, un campo de indagaci&oacute;n epistemol&oacute;gica. </p>
+      
+      <p>As&iacute;, proponemos una experiencia esc&eacute;nica como piel de muchas otras apariciones del fasma a trav&eacute;s de este proyecto. Aqu&iacute;, un Solo compartido hacia una obra paisaje.</p>
+
+    </div>
+
+
+
+
+
+    <div *ngIf="this.equipo" class="bdy2">
+
+
+    <p class="bighead"><b>Equipo</b></p>
+    <p class="namez"><b>Macarena Campbell</b> - Investigadora-int&eacute;rprete</p>
+    <p class="namez"><b>Rolando Jara</b> - Dramaturgia e investigaci&oacute;n</p>
+    <p class="namez"><b>Eduardo Cer&oacute;n</b> -  Dise&ntilde;o integral e investigaci&oacute;n</p>
+
+
+     
+    <p class="namez"><b>Ramiro Molina</b> - Investigaci&oacute;n y realizaci&oacute;n sonora</p>
+    
+    <p class="namez"><b>Julio Escobar</b> - Exploraci&oacute;n y realizaci&oacute;n lum&iacute;nica </p>
+    
+    <p class="namez"><b>Enrique Far&iacute;as</b> - Registro audiovisual</p>
+    
+    <p class="namez"><b>Marcela Olate</b> - Acompa&ntilde;amiento y producci&oacute;n general</p>
+
+    <p class="bighead"><b>Colaboradores</b></p>
+
+    <p class="namez">Ana María Pérez</p>
+    <p class="namez">Enrique Farias</p>
+    <p class="namez">Natalia Ramirez</p>
+    <p class="namez">Jaime Salamanca </p>
+    <p class="namez">Raúl Valenzuela</p>
+    <p class="namez">Emilio Edwards</p>
+
+
+    <p class="bighead"><b>Agradecimientos</b></p>
+    <p class="namez">Cristián Matta, Andrea Amaro, Kailin Badal, Jorge Véliz, Colectivo La Vitrina, Alys Longley, Jeoffrey Holloway, Sebastián Soto, Akana Teatro, La Naranja, Mila Ercoli.
+    </p>
+  
+
+    <hr class="doozy">
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+    <p class="bighead"><b>Rese&ntilde;as curriculares</b></p>
+
+
+<b>    <p class="namez2">Macarena Campbell</p></b>
+    <p>  Int&eacute;rprete, creadora, docente y gestora. Sus intereses creativos est&aacute;n vinculados principalmente con sistemas de trabajo basados en la colaboraci&oacute;n y en la interdisciplina; participa como int&eacute;rprete en diversos proyectos de danza independiente, es acad&eacute;mica en el Departamento de Danza de la Universidad de Chile y co-dirige la organizaci&oacute;n Plantar, plataforma de gesti&oacute;n de espacios formativos para profesionales de la danza.</p>
+
+<p>Realiza estudios formales en danza en Laban Centre de Londres, en la Universidad de Chile y en la Escuela de Ballet del Teatro Municipal de Santiago. Ha participado en diversos seminarios de perfeccionamiento en &aacute;reas relacionadas con el movimiento as&iacute; mismo participa de proyectos de investigaci&oacute;n como Vertebral junto a Rolando Jara. </p>
+
+<p>Desarrolla creaciones esc&eacute;nicas en colaboraci&oacute;n con artistas en Chile y el extranjero, destacando los proyectos Canvas, Obra, Dobles, Relevo, Homo Ludens y esta en proceso de creaci&oacute;n de Fasma (2018-2019). Como int&eacute;rprete a colaborado con Deborah Hazler (Austria), Teresa Prieto (Chile), Javiera Pe&oacute;n-Veiga (Chile), Marisol Vargas (Chile), Vangelis Legakis (Grecia), Zikzira Teatro F&iacute;sico (Brasil-Reino Unido), The Cholmondeleys (Reino Unido), bOxd Productions (Inglaterra), Colectivo Danza La Vitrina (Chile).</p>
+
+<p>www.macarenacampbell.cl</p>
+
+<b><p class="namez2"> Rolando Jara </p></b>
+  <p>Dramaturgo, Doctor y Mag&iacute;ster en Literatura, Licenciado en Est&eacute;tica. En el &aacute;mbito de la dramaturgia, fue becado por la Biblioteca Nacional para realizar estudios de dramaturgia con Marco Antonio de la Parra y, adem&aacute;s, por el Ministerio de Cultura y Deportes de Espa&ntilde;a para cursar el programa Curso de Dramaturgia y Direcci&oacute;n Teatral, con los artistas Serg&iacute; Belbel, Mauricio Kart&uacute;n, Ricardo Bart&iacute;s, Aristide Vargas y Federico Le&oacute;n, en Madrid y Barcelona.</p>
+
+<p>Como dramaturgo, ha sido seleccionado en cinco ocasiones en la Muestra de Dramaturgia Nacional y ha estrenado en Chile, Alemania, M&eacute;xico, Argentina y Espa&ntilde;a. Ha abordado la escritura teatral, la dramaturgia para la danza y la &oacute;pera. De sus textos teatrales destacan Costas de Hielo, La Bilis Negra, Proyecto/Fausto, Polen, Calias, tentativas sobre la belleza (presentada en el National Theater de Mannheim), Hombre Acosado por demonios ante un espejo, la &oacute;pera Lamentaciones, coautor&iacute;a con el compositor Cristian Morales Ossio y Vertebral, trabajo de dramaturgia en tiempo real, junto a la bailarina y core&oacute;grafa Macarena Campbell.</p>
+
+<p>En el &aacute;mbito acad&eacute;mico, se especializa en est&eacute;tica e historia de las artes esc&eacute;nicas, dictando cursos en el &aacute;rea de la dramaturgia y la escenificaci&oacute;n. En el espacio de la investigaci&oacute;n literaria, ha abordado la poes&iacute;a y el teatro del surrealismo en Chile. Actualmente es Profesor Asociado del Departamento de Danza de la Universidad de Chile y profesor del Mag&iacute;ster en Direcci&oacute;n Teatral del DETUCH.</p>
+
+<b><p class="namez2">Eduardo Cer&oacute;n  </p></b>
+  <p>Licenciado en dise&ntilde;o ha trabajado desde el a&ntilde;o 2000 en distintas compa&ntilde;&iacute;as de la escena nacional en teatro, y extendi&eacute;ndose a la danza, las artes visuales y al audiovisual. En teatro ha realizado el dise&ntilde;o integral de mas de una treintena de montajes, entre las cuales se destacan &ldquo;La Cosa&rdquo; de la compa&ntilde;&iacute;a La Puerta, estrenada en el Festival St&uuml;cke en Alemania en el a&ntilde;o 2013; &ldquo;Cuarteto&rdquo; dirigida por Luis Ureta; &ldquo;Fabulaci&oacute;n&rdquo; del director Marcos Guzm&aacute;n ganadora a mejor montaje del circulo de cr&iacute;ticos; &ldquo;Maquina Hamlet&rdquo; dirigida por Cristian Keim, entre otras. Trabaja como dise&ntilde;ador en las muestras de dramaturgia Nacional y europea en Chile y en Buenos Aires, Argentina (2014). Dise&ntilde;&oacute; el espacio para la performance &ldquo;Nitti gritty Club&rdquo; en Venecia, Italia (2014). </p>
+
+<p>En danza ha realizado dise&ntilde;o integral para el Ballet Nacional de Chile, Banch; dise&ntilde;o Integral de &ldquo;Ter- cera persona intruso&rdquo;, dirigida por Francisca Sazie premio de la critica; el co-dise&ntilde;o Integral para &ldquo;La siesta de un fauno&rdquo; dirigida por Isabel Croxato, la cual fue estrenada mundialmente en el &ldquo;Festival de core&oacute;grafos&rdquo; del Teatro Municipal de Santiago. Solo en el teatro Chileno, ha realizado m&aacute;s de 250 piezas gr&aacute;ficas, adem&aacute;s del dise&ntilde;o gr&aacute;fico para el cine, la danza, la literatura y la m&uacute;sica Chilena. De esta manera, su trabajo gr&aacute;fico fue destacado al ser seleccionado el a&ntilde;o 2008 para exponer en la muestra de dise&ntilde;adores contempor&aacute;neos chilenos. Tambi&eacute;n ha realizado docencia en las escuelas de Teatro y Dise&ntilde;o de la Universidad Arcis y UNIACC, respectivamente.  Estuvo a cargo de la direcci&oacute;n de arte de montajes y registros del Teatro Nacional Chileno y la direcci&oacute;n de arte para el &ldquo;Festival del mundo WOMAD Chile&rdquo;. Particip&oacute; en la delegaci&oacute;n de dise&ntilde;adores profesionales para el stand de Chile en la quadrienal de dise&ntilde;o teatral de Praga.</p>
+
+<b><p class="namez2">Ramiro Molina</p></b>
+  <p> Es improvisador, compositor e int&eacute;rprete en guitarra el&eacute;ctrica. En su carrera, acumula experiencias internacionales marcadas por la pr&aacute;ctica de la interacci&oacute;n y fortalecimiento del di&aacute;logo con diversos escenarios de improvisaci&oacute;n y con m&uacute;sicos de diversos lugares del mundo. Como organizador de eventos, por ejemplo el Festival Internacional de M&uacute;sica Improvisada (FIMI), consigui&oacute; reunir en 2012 a m&uacute;sicos importantes de la escena de improvisaci&oacute;n internacional como Marc Ducret (Francia), Samuel Blaser (Suiza) y Agust&iacute; Fern&aacute;ndez (Espa&ntilde;a). Adem&aacute;s de Europa, Brasil y Argentina tambi&eacute;n son ambientes explorados por Molina, pa&iacute;ses en los cuales realiza giras y comparte escenarios musicales promoviendo la vinculaci&oacute;n. Adem&aacute;s, su obra constantemente desborda los territorios de la m&uacute;sica, invadiendo otros lenguajes como la danza, las artes visuales y el cine, lo cual le convierte en un artista multi-territorial en varios aspectos.</p>
+
+<p>Inici&oacute; su trayectoria a los diez a&ntilde;os estudiando piano, para luego partir con la guitarra el&eacute;ctrica. Explor&oacute; este instrumento, adem&aacute;s de la teor&iacute;a, la armon&iacute;a y la improvisaci&oacute;n con George Abufhele (fundador y director de la actual Escuela de M&uacute;sica Projazz). En Francia vivi&oacute; y estudi&oacute; en CIM (Centre d&rsquo;Informations Musicales), siendo alumno de guitarra de Gilles Rennes y Malo Vallois; y en arreglos de Dennis Bioteau, Claude Py, Claude Duchet e Ivan Jullien. En Nueva York, particip&oacute; en el Curso de Improvisaci&oacute;n en SIM (School for Improvisational Music) junto a Ralph Alessi, Tim Berne, Tom Rainey y Gerald Cleaver entre otros.</p>
+
+<p>Su obra est&aacute; compuesta por composiciones para diversos lenguajes y formatos instrumentales, incluyendo video-danza, danza, obras multimedias y teatro de movimiento.</p>
+
+<b><p class="namez2"> Marcela Olate Vega </p></b>
+  <p>Int&eacute;rprete, creadora y colaboradora de acciones culturales. Sus intereses en estos a&ntilde;os han estado dirigidos hacia la interpretaci&oacute;n, creaci&oacute;n y gesti&oacute;n en torno a la danza y el movimiento. Licenciada en Danza de la Universidad Arcis, actualmente cursa el programa de formaci&oacute;n para Educador som&aacute;tico BMC. Participa en diversos seminarios relacionados a la danza y gesti&oacute;n. </p>
+
+<p>Int&eacute;rprete/creadora en obras del Colectivo de Arte La Vitrina como &ldquo;Persistencia de Material&rdquo;; &ldquo;Relatos paralelos&rdquo;; &ldquo;UP, inscripciones pr&aacute;cticas&rdquo;; &ldquo;Remontaje de Carne de Ca&ntilde;on&rdquo;. Co dirige &ldquo;Una imagen&rdquo; junto a Daniela Marini y Javiera Sanhueza. </p>
+
+<p>Desde el a&ntilde;o 2013 a la fecha integra el Colectivo de Arte La Vitrina, donde ha desarrollado los roles de interprete/creadora, gestora y actualmente administradora del espacio. Es parte del equipo gestor del Libro de la Danza Chilena. Miembro activo de la Red Danza Sur. Colabora con diferentes artistas y organizaciones en la gesti&oacute;n y producci&oacute;n de sus obras y proyectos. Parte del equipo gestor y representante en Chile de la plataforma veiculoSUR / Residencia Internacional Itinerante. </p>
+
+<b><p class="namez2">Enrique Far&iacute;as</p></b>
+  <p> Egresado de Cine en la Universidad del Desarrollo. En sus trabajos como director destaca &ldquo;La Madre del Cordero&rdquo;, pel&iacute;cula estrenada en la categoria Nuev@s Directores del Festival de San Sebasti&aacute;n; adem&aacute;s de los cortometrajes &ldquo;Ali&ntilde;o completo&rdquo; y &ldquo;La chancha&rdquo;, participantes de varios festivales nacionales e internacionales. Es parte del equipo realizador de MAFI (http://mafi.tv/), y realizador en el largometraje &ldquo;Propaganda&rdquo; (2014), y en su nuevo largometraje &ldquo;Dios&rdquo;. Por otra parte, trabaja en el montaje de &ldquo;Ni juntos ni solos&rdquo; (Elliot Morfi). El 2017 particip&oacute; del Berlinale Tallent de Buenos Aires como director y en SANFIC LAB con su proyecto de ficci&oacute;n &ldquo;La cocinera&rdquo;, el que se encuentra en busca de financiamiento. El 2018 se adjudic&oacute; el Fondo de Fomento Audiovisual para cursar el Mag&iacute;ster de Cine Documental impartido por la Universidad de Chile, bajo el cual prepara su proyecto de t&iacute;tulo &ldquo;Reina Madre&rdquo;, en el cual hace el seguimiento de una madre soltera de Alto Hospicio poni&eacute;ndolo en relaci&oacute;n a la virgen del Carmen de La Tirana, el cual ha participado en algunos laboratorios. Adem&aacute;s, se encuentra realizando un documental sobre la obra de danza &ldquo;Fasma&rdquo;, a partir de su registro durante el proceso de investigaci&oacute;n, ensayos y presentaciones.</p>
+
+<b><p class="namez2">Julio Escobar Mellado </p></b>
+ <p> Artista lum&iacute;nico, Dise&ntilde;ador de Iluminaci&oacute;n para Artes Esc&eacute;nicas y Visuales, Productor y T&eacute;cnico Esc&eacute;nico. Licenciado en Artes con menci&oacute;n en Actuaci&oacute;n Teatral de la Universidad Arcis. Ha profundizado su estudio y oficio lum&iacute;nico en diferentes instancias tanto en Chile como en el extranjero. La b&uacute;squeda de sentido del lenguaje lum&iacute;nico aplicado a las diferentes disciplinas, es la caracter&iacute;stica de su trabajo.</p>
+  
+      </div>
+     
+    <img *ngIf="image"  src="{{image}}" class="bigimage" width="100%"/>
+
+    <video  *ngIf="video" class="library" autoplay preload="auto" data-config="some-js-object-here">
+        <source src="{{video}}" type='video/mp4'>
+      </video>
+       
+
+      <audio controls *ngIf="audio">
+       
+          <source src="{{audio}}" type="audio/mpeg">
+        Your browser does not support the audio element.
+        </audio>
+  
+  
+  
+  
+  </div>
+    <div class="col-12 col-md-3 ficha">
+     <!-- <div class="title">{{title}}</div>-->
+      <div class="category">{{category}}</div>
+      <div class="author">{{author}}</div>
+      <div class="date">{{date}}</div>
+    
+      <div class="subtitle">{{subtitle}}</div> 
+      <div class="description">{{description}}</div>
+
+     
+    
+  </div>
+  
+</div> 
+   </div>
+
+  </div>
+
+
+
+
+  
+  
+
+  </div>
+
+
+
+  
+
+
+
+  
+  
+    
+  
+  
+  
+
+  
+  
+  
+  
+
+

@@ -1,0 +1,1411 @@
+[  
+   
+
+
+
+
+
+
+
+
+
+
+
+
+    {   "title":"Pizarra #1",
+        "subtitle":"Franz Klein",
+        "category":"Investigación Visual",
+        "cat":"umbral",
+        "description":"Los mejores y más conocidos trabajos expresionistas de Kline fueron hechos con los colores blanco y negro puros, aunque a veces introdujo diversas tonalidades de ambos colores. Sólo volvió a utilizar color en sus pinturas a partir de 1955, aunque sus pinturas más importantes en color fueron hechas recién a partir de 1959.",
+
+        "icon" : "../assets/markers/ec1a.svg",
+
+        "date":"25/06/2018",
+        "author":"Eduardo Cerón",
+        "lat":"-33.5519805",
+        "lng": "-70.9803230",
+        "nextlat":"-33.4420406",
+        "nextlng": "-70.6617195",
+        "imageurl":"../assets/entradas/umbral/umbral_pizarras.jpg",
+
+        "primary":"#484848",
+        
+        "cx": 50,
+        "anim": "66s",
+        "radius": 1.5,
+        "class":"forwards"
+    },
+
+    {   "title":"Pizarra #2",
+        "subtitle":"Franz Klein",
+        "category":"Investigación Visual",
+        "cat":"umbral",
+        "description":"Los mejores y más conocidos trabajos expresionistas de Kline fueron hechos con los colores blanco y negro puros, aunque a veces introdujo diversas tonalidades de ambos colores. Sólo volvió a utilizar color en sus pinturas a partir de 1955, aunque sus pinturas más importantes en color fueron hechas recién a partir de 1959.",
+
+        "icon" : "../assets/markers/ec1a.svg",
+
+        "date":"25/06/2018",
+        "author":"Eduardo Cerón",
+        "lat":"-33.5519805",
+        "lng": "-70.9803230",
+        "nextlat":"-33.4420406",
+        "nextlng": "-70.6617195",
+        "imageurl":"../assets/entradas/umbral/umbral_pizarras2.jpg",
+
+        "primary":"#484848",
+        
+        "cx": 52,
+        "anim": "90s",
+        "radius": 1.7,
+        "class":"forwards"
+    },
+
+
+
+    {   "title":"Pizarra #3",
+        "subtitle":"Franz Klein",
+        "category":"Investigación Visual",
+        "cat":"umbral",
+        "description":"Los mejores y más conocidos trabajos expresionistas de Kline fueron hechos con los colores blanco y negro puros, aunque a veces introdujo diversas tonalidades de ambos colores. Sólo volvió a utilizar color en sus pinturas a partir de 1955, aunque sus pinturas más importantes en color fueron hechas recién a partir de 1959.",
+
+        "icon" : "../assets/markers/ec1a.svg",
+
+        "date":"25/06/2018",
+        "author":"Eduardo Cerón",
+        "lat":"-33.5519805",
+        "lng": "-70.9803230",
+        "nextlat":"-33.4420406",
+        "nextlng": "-70.6617195",
+        "imageurl":"../assets/entradas/umbral/umbral_pizarras3.jpg",
+
+        "primary":"#484848",
+        
+        "cx": 47,
+        "anim": "60s",
+        "radius": 1.4,
+        "class":"forwards"
+    },
+
+
+    {   "title":"Pizarra #4",
+        "subtitle":"Franz Klein",
+        "category":"Investigación Visual",
+        "cat":"umbral",
+        "description":"Los mejores y más conocidos trabajos expresionistas de Kline fueron hechos con los colores blanco y negro puros, aunque a veces introdujo diversas tonalidades de ambos colores. Sólo volvió a utilizar color en sus pinturas a partir de 1955, aunque sus pinturas más importantes en color fueron hechas recién a partir de 1959.",
+
+        "icon" : "../assets/markers/ec1a.svg",
+
+        "date":"25/06/2018",
+        "author":"Eduardo Cerón",
+        "lat":"-33.5519805",
+        "lng": "-70.9803230",
+        "nextlat":"-33.4420406",
+        "nextlng": "-70.6617195",
+        "imageurl":"../assets/entradas/umbral/umbral_pizarras5.jpg",
+
+        "primary":"#484848",
+        
+        "cx": 45,
+        "anim": "76s",
+        "radius": 1.8,
+        "class":"forwards"
+    },
+
+
+
+
+    {   "title":"Pizarra #4",
+        "subtitle":"Franz Klein",
+        "category":"Investigación Visual",
+        "cat":"umbral",
+        "description":"Los mejores y más conocidos trabajos expresionistas de Kline fueron hechos con los colores blanco y negro puros, aunque a veces introdujo diversas tonalidades de ambos colores. Sólo volvió a utilizar color en sus pinturas a partir de 1955, aunque sus pinturas más importantes en color fueron hechas recién a partir de 1959.",
+
+        "icon" : "../assets/markers/ec1a.svg",
+
+        "date":"25/06/2018",
+        "author":"Eduardo Cerón",
+        "lat":"-33.5519805",
+        "lng": "-70.9803230",
+        "nextlat":"-33.4420406",
+        "nextlng": "-70.6617195",
+        "imageurl":"../assets/entradas/umbral/umbral_pizarras5.jpg",
+
+        "primary":"#484848",
+        
+        "cx": 45,
+        "anim": "76s",
+        "radius": 1.6,
+        "class":"forwards"
+    },
+
+   
+
+
+
+    {   "title":"Pizarra #5",
+        "subtitle":"Franz Klein",
+        "category":"Umbral",
+        "cat":"umbral",
+        "description":"Los mejores y más conocidos trabajos expresionistas de Kline fueron hechos con los colores blanco y negro puros, aunque a veces introdujo diversas tonalidades de ambos colores. Sólo volvió a utilizar color en sus pinturas a partir de 1955, aunque sus pinturas más importantes en color fueron hechas recién a partir de 1959.",
+
+        "icon" : "../assets/markers/ec1a.svg",
+
+        "date":"25/06/2018",
+        "author":"Eduardo Cerón",
+        "lat":"-33.5519805",
+        "lng": "-70.9803230",
+        "nextlat":"-33.4420406",
+        "nextlng": "-70.6617195",
+        "imageurl":"../assets/entradas/umbral/umbral_pizarras5.jpg",
+
+        "primary":"#484848",
+        
+        "cx": 46,
+        "anim": "90s",
+        "radius": 1.6,
+        "class":"forwards"
+    },
+
+
+    {   "title":"Foto #1",
+        "subtitle":"Monochrome 1956",
+        "category":"Umbral",
+        "cat":"investigacion",
+        "description":" ",
+
+        "icon" : "../assets/markers/ec1c.svg",
+
+        "date":"25/06/2018",
+        "author":"Eduardo Cerón",
+        "lat":"-33.6206220",
+        "lng": "-70.3376228",
+        "nextlat":"-33.4420406",
+        "nextlng": "-70.6617195",
+        "imageurl":"../assets/entradas/umbral/umbral_foto1.jpg",
+
+        "primary":"#72695B",
+        "cx": 55,
+        "anim": "54s",
+        "radius": 1.6,
+        "class":"forwards"
+    },
+
+    {   "title":"Foto #2",
+        "subtitle":"Monochrome 1956",
+        "category":"Umbral",
+        "cat":"investigacion",
+        "description":" ",
+
+        "icon" : "../assets/markers/ec1c.svg",
+
+        "date":"25/06/2018",
+        "author":"Eduardo Cerón",
+        "lat":"-33.6206220",
+        "lng": "-70.3376228",
+        "nextlat":"-33.4420406",
+        "nextlng": "-70.6617195",
+        "imageurl":"../assets/entradas/umbral/umbral_foto2.jpg",
+
+        "primary":"#72695B",
+        "cx": 57,
+        "anim": "60s",
+        "radius": 1.7,
+        "class":"forwards"
+    },
+
+
+
+    {   "title":"Prueba #1",
+        "subtitle":"Técnica vocal de Asia Central ",
+        "category":"Umbral",
+        "cat":"umbral",
+        "description":"Consiste en una reverberación sonora (generada entre la faringe y la boca) que produce dos o más sonidos simultáneos con una ligera variación (alrededor de un armónico). En algunos casos, esta variación puede ser modulada de modo independiente.",
+
+          "icon" : "../assets/markers/ec1b.svg",
+
+        "date":"25/06/2018",
+        "author":"Eduardo Cerón",
+        "lat":"-33.6846381",
+        "lng": "-70.738623",
+        "nextlat":"-33.4420406",
+        "nextlng": "-70.6617195",
+        "audiourl":"../assets/entradas/umbral/prueba1.mp3",
+
+        "primary":"#917474",
+        "cx": 59,
+        "anim": "222s",
+        "radius": 1,
+        "class":"forwards"
+    },
+
+
+    {   "title":"Mat Guitar #1",
+        "subtitle":"Técnica vocal de Asia Central ",
+        "category":"Umbral",
+        "cat":"umbral",
+        "description":"Consiste en una reverberación sonora (generada entre la faringe y la boca) que produce dos o más sonidos simultáneos con una ligera variación (alrededor de un armónico). En algunos casos, esta variación puede ser modulada de modo independiente.",
+
+          "icon" : "../assets/markers/ec1b.svg",
+
+        "date":"25/06/2018",
+        "author":"Eduardo Cerón",
+        "lat":"-33.6846381",
+        "lng": "-70.738623",
+        "nextlat":"-33.4420406",
+        "nextlng": "-70.6617195",
+        "audiourl":"../assets/entradas/umbral/matguitar.mp3",
+
+        "primary":"#917474",
+        "cx": 60,
+        "anim": "270s",
+        "radius": 1,
+        "class":"forwards"
+    },
+
+
+    {   "title":"Mat Guitar #2",
+        "subtitle":"Técnica vocal de Asia Central ",
+        "category":"Umbral",
+        "cat":"umbral",
+        "description":"Consiste en una reverberación sonora (generada entre la faringe y la boca) que produce dos o más sonidos simultáneos con una ligera variación (alrededor de un armónico). En algunos casos, esta variación puede ser modulada de modo independiente.",
+
+          "icon" : "../assets/markers/ec1b.svg",
+
+        "date":"25/06/2018",
+        "author":"Eduardo Cerón",
+        "lat":"-33.6846381",
+        "lng": "-70.738623",
+        "nextlat":"-33.4420406",
+        "nextlng": "-70.6617195",
+        "audiourl":"../assets/entradas/umbral/matguitar2.mp3",
+
+        "primary":"#917474",
+        "cx": 62,
+        "anim": "240s",
+        "radius": 1,
+        "class":"forwards"
+    },
+
+
+
+    {   "title":"Mat Guitar #3",
+        "subtitle":"Técnica vocal de Asia Central ",
+        "category":"Umbral",
+        "cat":"umbral",
+        "description":"Consiste en una reverberación sonora (generada entre la faringe y la boca) que produce dos o más sonidos simultáneos con una ligera variación (alrededor de un armónico). En algunos casos, esta variación puede ser modulada de modo independiente.",
+
+          "icon" : "../assets/markers/ec1b.svg",
+
+        "date":"25/06/2018",
+        "author":"Eduardo Cerón",
+        "lat":"-33.6846381",
+        "lng": "-70.738623",
+        "nextlat":"-33.4420406",
+        "nextlng": "-70.6617195",
+        "audiourl":"../assets/entradas/umbral/matguitar3.mp3",
+
+        "primary":"#917474",
+        "cx": 64,
+        "anim": "180s",
+        "radius": 1,
+        "class":"forwards"
+    },
+
+
+    {   "title":"Nuevas Voces #1",
+        "subtitle":"Técnica vocal de Asia Central",
+        "category":"Umbral",
+        "cat":"umbral",
+        "description":"Consiste en una reverberación sonora (generada entre la faringe y la boca) que produce dos o más sonidos simultáneos con una ligera variación (alrededor de un armónico). En algunos casos, esta variación puede ser modulada de modo independiente.",
+
+          "icon" : "../assets/markers/ec1b.svg",
+
+        "date":"25/06/2018",
+        "author":"Eduardo Cerón",
+        "lat":"-33.6846381",
+        "lng": "-70.738623",
+        "nextlat":"-33.4420406",
+        "nextlng": "-70.6617195",
+        "audiourl":"../assets/entradas/umbral/nuevasvoces1.mp3",
+
+        "primary":"#917474",
+        "cx": 66,
+        "anim": "150s",
+        "radius": 1.3,
+        "class":"forwards"
+    },
+
+    {   "title":"Prueba 2",
+        "subtitle":"Técnica vocal de Asia Central",
+        "category":"Umbral",
+        "cat":"umbral",
+        "description":"Consiste en una reverberación sonora (generada entre la faringe y la boca) que produce dos o más sonidos simultáneos con una ligera variación (alrededor de un armónico). En algunos casos, esta variación puede ser modulada de modo independiente.",
+
+          "icon" : "../assets/markers/ec1b.svg",
+
+        "date":"25/06/2018",
+        "author":"Eduardo Cerón",
+        "lat":"-33.6846381",
+        "lng": "-70.738623",
+        "nextlat":"-33.4420406",
+        "nextlng": "-70.6617195",
+        "audiourl":"../assets/entradas/umbral/prueba1.mp3",
+
+        "primary":"#917474",
+        "cx": 61,
+        "anim": "300s",
+        "radius": 1,
+        "class":"forwards"
+    },
+
+
+    {   "title":"Cuerpos Proyectivos",
+        "subtitle":"Técnica vocal de Asia Central",
+        "category":"Umbral",
+        "cat":"umbral",
+        "description":"Consiste en una reverberación sonora (generada entre la faringe y la boca) que produce dos o más sonidos simultáneos con una ligera variación (alrededor de un armónico). En algunos casos, esta variación puede ser modulada de modo independiente.",
+
+          "icon" : "../assets/markers/ec1b.svg",
+
+        "date":"25/06/2018",
+        "author":"Eduardo Cerón",
+        "lat":"-33.6846381",
+        "lng": "-70.738623",
+        "nextlat":"-33.4420406",
+        "nextlng": "-70.6617195",
+        "audiourl":"../assets/entradas/umbral/cuerpos1.mp3",
+
+        "primary":"#917474",
+        "cx": 63,
+        "anim": "330s",
+        "radius": 1.2,
+        "class":"forwards"
+    },
+
+
+    {   "title":"Sonidos Bucales",
+        "subtitle":"Técnica vocal de Asia Central",
+        "category":"Umbral",
+        "cat":"umbral",
+        "description":"Consiste en una reverberación sonora (generada entre la faringe y la boca) que produce dos o más sonidos simultáneos con una ligera variación (alrededor de un armónico). En algunos casos, esta variación puede ser modulada de modo independiente.",
+
+          "icon" : "../assets/markers/ec1b.svg",
+
+        "date":"25/06/2018",
+        "author":"Eduardo Cerón",
+        "lat":"-33.6846381",
+        "lng": "-70.738623",
+        "nextlat":"-33.4420406",
+        "nextlng": "-70.6617195",
+        "audiourl":"../assets/entradas/umbral/sonidosbucales1.mp3",
+
+        "primary":"#917474",
+        "cx": 65,
+        "anim": "30s",
+        "radius": 1.2,
+        "class":"forwards"
+    },
+
+
+
+    {   "title":"Sonidos Bucales #2",
+        "subtitle":"Técnica vocal de Asia Central",
+        "category":"Umbral",
+        "cat":"umbral",
+        "description":"Consiste en una reverberación sonora (generada entre la faringe y la boca) que produce dos o más sonidos simultáneos con una ligera variación (alrededor de un armónico). En algunos casos, esta variación puede ser modulada de modo independiente.",
+
+          "icon" : "../assets/markers/ec1b.svg",
+
+        "date":"25/06/2018",
+        "author":"Eduardo Cerón",
+        "lat":"-33.6846381",
+        "lng": "-70.738623",
+        "nextlat":"-33.4420406",
+        "nextlng": "-70.6617195",
+        "audiourl":"../assets/entradas/umbral/sonidosbucales2.mp3",
+
+        "primary":"#917474",
+        "cx": 65,
+        "anim": "45s",
+        "radius": 1.2,
+        "class":"forwards"
+    },
+
+
+
+
+    {   "title":"Sonidos Cotidianos #1",
+        "subtitle":"Técnica vocal de Asia Central",
+        "category":"Umbral",
+        "cat":"umbral",
+        "description":"Consiste en una reverberación sonora (generada entre la faringe y la boca) que produce dos o más sonidos simultáneos con una ligera variación (alrededor de un armónico). En algunos casos, esta variación puede ser modulada de modo independiente.",
+
+          "icon" : "../assets/markers/ec1b.svg",
+
+        "date":"25/06/2018",
+        "author":"Eduardo Cerón",
+        "lat":"-33.6846381",
+        "lng": "-70.738623",
+        "nextlat":"-33.4420406",
+        "nextlng": "-70.6617195",
+        "audiourl":"../assets/entradas/umbral/sonidoscotidianos1.mp3",
+
+        "primary":"#917474",
+        "cx": 67,
+        "anim": "47s",
+        "radius": 1.2,
+        "class":"forwards"
+    },
+
+
+
+    {   "title":"1º Susurro",
+        "subtitle":"Técnica vocal de Asia Central",
+        "category":"Umbral",
+        "cat":"umbral",
+        "description":"Consiste en una reverberación sonora (generada entre la faringe y la boca) que produce dos o más sonidos simultáneos con una ligera variación (alrededor de un armónico). En algunos casos, esta variación puede ser modulada de modo independiente.",
+
+          "icon" : "../assets/markers/ec1b.svg",
+
+        "date":"25/06/2018",
+        "author":"Eduardo Cerón",
+        "lat":"-33.6846381",
+        "lng": "-70.738623",
+        "nextlat":"-33.4420406",
+        "nextlng": "-70.6617195",
+        "audiourl":"../assets/entradas/umbral/susurro1.mp3",
+
+        "primary":"#917474",
+        "cx": 67,
+        "anim": "57s",
+        "radius": 1.2,
+        "class":"forwards"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {   "title":"Foto #1",
+      "subtitle":"Monochrome 1956",
+      "category":"Prácticas Sintéticas",
+      "cat":"sinteticas",
+      "description":" ",
+
+      "icon" : "../assets/markers/ec1c.svg",
+
+      "date":"25/06/2018",
+      "author":"Eduardo Cerón",
+      "lat":"-33.6206220",
+      "lng": "-70.3376228",
+      "nextlat":"-33.4420406",
+      "nextlng": "-70.6617195",
+      "imageurl":"../assets/entradas/practicas_sinteticas/ps_foto1.jpg",
+
+      "primary":"#353c48",
+      "cx": 80,
+      "anim": "122s",
+      "radius": 2.7,
+      "class":"backwards"
+  }
+,
+
+{   "title":"Foto #2",
+  "subtitle":"Monochrome 1956",
+  "category":"Prácticas Sintéticas",
+  "cat":"sinteticas",
+  "description":" ",
+
+  "icon" : "../assets/markers/ec1c.svg",
+
+  "date":"25/06/2018",
+  "author":"Eduardo Cerón",
+  "lat":"-33.6206220",
+  "lng": "-70.3376228",
+  "nextlat":"-33.4420406",
+  "nextlng": "-70.6617195",
+  "imageurl":"../assets/entradas/practicas_sinteticas/ps_foto2.jpg",
+
+  "primary":"#353c48",
+  "cx": 82,
+  "anim": "124s",
+  "radius": 2.8,
+  "class":"backwards"
+}
+
+,
+
+{   "title":"Foto #3",
+  "subtitle":"Monochrome 1956",
+  "category":"Prácticas Sintéticas",
+  "cat":"sinteticas",
+  "description":" ",
+
+  "icon" : "../assets/markers/ec1c.svg",
+
+  "date":"25/06/2018",
+  "author":"Eduardo Cerón",
+  "lat":"-33.6206220",
+  "lng": "-70.3376228",
+  "nextlat":"-33.4420406",
+  "nextlng": "-70.6617195",
+  "imageurl":"../assets/entradas/practicas_sinteticas/ps_foto3.jpg",
+
+  "primary":"#353c48",
+  "cx": 84,
+  "anim": "98s",
+  "radius": 3.0,
+  "class":"backwards"
+}
+
+
+,
+
+{   "title":"Foto #4",
+  "subtitle":"Monochrome 1956",
+  "category":"Prácticas Sintéticas",
+  "cat":"sinteticas",
+  "description":" ",
+
+  "icon" : "../assets/markers/ec1c.svg",
+
+  "date":"25/06/2018",
+  "author":"Eduardo Cerón",
+  "lat":"-33.6206220",
+  "lng": "-70.3376228",
+  "nextlat":"-33.4420406",
+  "nextlng": "-70.6617195",
+  "imageurl":"../assets/entradas/practicas_sinteticas/ps_foto4.jpg",
+
+  "primary":"#353c48",
+  "cx": 86,
+  "anim": "148s",
+  "radius": 3.1,
+  "class":"backwards"
+}
+
+
+,
+
+{   "title":"Foto #5",
+  "subtitle":"Monochrome 1956",
+  "category":"Prácticas Sintéticas",
+  "cat":"sinteticas",
+  "description":" ",
+
+  "icon" : "../assets/markers/ec1c.svg",
+
+  "date":"25/06/2018",
+  "author":"Eduardo Cerón",
+  "lat":"-33.6206220",
+  "lng": "-70.3376228",
+  "nextlat":"-33.4420406",
+  "nextlng": "-70.6617195",
+  "imageurl":"../assets/entradas/practicas_sinteticas/ps_foto5.jpg",
+
+  "primary":"#353c48",
+  "cx": 88,
+  "anim": "150s",
+  "radius": 3.1,
+  "class":"backwards"
+},
+
+
+{   "title":"Agua",
+  "subtitle":"Técnica vocal de Asia Central",
+  "category":"Prácticas Sintéticas",
+  "cat":"sinteticas",
+  "description":"Consiste en una reverberación sonora (generada entre la faringe y la boca) que produce dos o más sonidos simultáneos con una ligera variación (alrededor de un armónico). En algunos casos, esta variación puede ser modulada de modo independiente.",
+
+    "icon" : "../assets/markers/ec1b.svg",
+
+  "date":"25/06/2018",
+  "author":"Eduardo Cerón",
+  "lat":"-33.6846381",
+  "lng": "-70.738623",
+  "nextlat":"-33.4420406",
+  "nextlng": "-70.6617195",
+  "audiourl":"../assets/entradas/practicas_sinteticas/agua.mp3",
+
+  "primary":"#3f4753",
+  "cx": 90,
+  "anim": "92s",
+  "radius": 2.2,
+  "class":"backwards"
+},
+
+
+
+{   "title":"Guión Modular",
+  "subtitle":"Técnica vocal de Asia Central",
+  "category":"Prácticas Sintéticas",
+  "cat":"sinteticas",
+  "description":"Consiste en una reverberación sonora (generada entre la faringe y la boca) que produce dos o más sonidos simultáneos con una ligera variación (alrededor de un armónico). En algunos casos, esta variación puede ser modulada de modo independiente.",
+
+    "icon" : "../assets/markers/ec1b.svg",
+
+  "date":"25/06/2018",
+  "author":"Eduardo Cerón",
+  "lat":"-33.6846381",
+  "lng": "-70.738623",
+  "nextlat":"-33.4420406",
+  "nextlng": "-70.6617195",
+
+  "pdf":"../assets/entradas/practicas_sinteticas/prac.pdf",
+  "primary":"#3f4753",
+  "cx": 90,
+  "anim": "91s",
+  "radius": 1.8,
+  "class":"backwards"
+}
+,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{   "title":"Foto #1",
+  "subtitle":"Monochrome 1956",
+  "category":"Prácticas Relacionales",
+  "cat":"relationales",
+  "description":" ",
+
+  "icon" : "../assets/markers/ec1c.svg",
+
+  "date":"25/06/2018",
+  "author":"Eduardo Cerón",
+  "lat":"-33.6206220",
+  "lng": "-70.3376228",
+  "nextlat":"-33.4420406",
+  "nextlng": "-70.6617195",
+  "imageurl":"../assets/entradas/practicas_relacionales/foto1.jpg",
+
+  "primary":"#a9a9a9",
+  "cx": 100,
+  "anim": "180s",
+  "radius": 1.7,
+  "class":"forwards"
+},
+
+
+{   "title":"Foto #2",
+  "subtitle":"Monochrome 1956",
+  "category":"Prácticas Relacionales",
+  "cat":"relationales",
+  "description":" ",
+
+  "icon" : "../assets/markers/ec1c.svg",
+
+  "date":"25/06/2018",
+  "author":"Eduardo Cerón",
+  "lat":"-33.6206220",
+  "lng": "-70.3376228",
+  "nextlat":"-33.4420406",
+  "nextlng": "-70.6617195",
+  "imageurl":"../assets/entradas/practicas_relacionales/foto2.jpg",
+
+  "primary":"#a9a9a9",
+  "cx": 102,
+  "anim": "150s",
+  "radius": 1.6,
+  "class":"forwards"
+},
+
+
+{   "title":"Foto #3",
+  "subtitle":"Monochrome 1956",
+  "category":"Prácticas Relacionales",
+  "cat":"relationales",
+  "description":" ",
+
+  "icon" : "../assets/markers/ec1c.svg",
+
+  "date":"25/06/2018",
+  "author":"Eduardo Cerón",
+  "lat":"-33.6206220",
+  "lng": "-70.3376228",
+  "nextlat":"-33.4420406",
+  "nextlng": "-70.6617195",
+  "imageurl":"../assets/entradas/practicas_relacionales/foto3.jpg",
+
+  "primary":"#a9a9a9",
+  "cx": 104,
+  "anim": "140s",
+  "radius": 1.4,
+  "class":"forwards"
+},
+
+
+{   "title":"Feedback Alys #1",
+  "subtitle":"Monochrome 1956",
+  "category":"Prácticas Relacionales",
+  "cat":"relationales",
+  "description":" ",
+
+  "icon" : "../assets/markers/ec1c.svg",
+
+  "date":"25/06/2018",
+  "author":"Eduardo Cerón",
+  "lat":"-33.6206220",
+  "lng": "-70.3376228",
+  "nextlat":"-33.4420406",
+  "nextlng": "-70.6617195",
+  "imageurl":"../assets/entradas/practicas_relacionales/feedback_alys1.jpg",
+
+  "primary":"#c7c4c4",
+  "cx": 106,
+  "anim": "141s",
+  "radius": 2.0,
+  "class":"forwards"
+},
+
+
+
+{   "title":"Feedback Alys #2",
+  "subtitle":"Monochrome 1956",
+  "category":"Prácticas Relacionales",
+  "cat":"relationales",
+  "description":" ",
+
+  "icon" : "../assets/markers/ec1c.svg",
+
+  "date":"25/06/2018",
+  "author":"Eduardo Cerón",
+  "lat":"-33.6206220",
+  "lng": "-70.3376228",
+  "nextlat":"-33.4420406",
+  "nextlng": "-70.6617195",
+  "imageurl":"../assets/entradas/practicas_relacionales/feedback_alys2.jpg",
+
+  "primary":"#c7c4c4",
+  "cx": 108,
+  "anim": "143s",
+  "radius": 2.1,
+  "class":"forwards"
+}
+
+,
+
+
+
+{   "title":"Feedback Alys #3",
+  "subtitle":"Monochrome 1956",
+  "category":"Prácticas Relacionales",
+  "cat":"relationales",
+  "description":" ",
+
+  "icon" : "../assets/markers/ec1c.svg",
+
+  "date":"25/06/2018",
+  "author":"Eduardo Cerón",
+  "lat":"-33.6206220",
+  "lng": "-70.3376228",
+  "nextlat":"-33.4420406",
+  "nextlng": "-70.6617195",
+  "imageurl":"../assets/entradas/practicas_relacionales/feedback_alys3.jpg",
+
+  "primary":"#c7c4c4",
+  "cx": 110,
+  "anim": "138s",
+  "radius": 2.2,
+  "class":"forwards"
+}
+
+,
+
+
+
+{   "title":"Mapa Fasma #1",
+  "subtitle":"Monochrome 1956",
+  "category":"Prácticas Relacionales",
+  "cat":"relationales",
+  "description":" ",
+
+  "icon" : "../assets/markers/ec1c.svg",
+
+  "date":"25/06/2018",
+  "author":"Eduardo Cerón",
+  "lat":"-33.6206220",
+  "lng": "-70.3376228",
+  "nextlat":"-33.4420406",
+  "nextlng": "-70.6617195",
+  "pdf":"../assets/entradas/practicas_relacionales/mapa.pdf",
+
+  "primary":"#a5a5a5",
+  "cx": 113,
+  "anim": "78s",
+  "radius": 1.2,
+  "class":"forwards"
+}
+,
+
+{   "title":"Lectosonora #1",
+  "subtitle":"Monochrome 1956",
+  "category":"Prácticas Relacionales",
+  "cat":"relationales",
+  "description":" ",
+
+  "icon" : "../assets/markers/ec1c.svg",
+
+  "date":"25/06/2018",
+  "author":"Eduardo Cerón",
+  "lat":"-33.6206220",
+  "lng": "-70.3376228",
+  "nextlat":"-33.4420406",
+  "nextlng": "-70.6617195",
+  "pdf":"../assets/entradas/practicas_relacionales/lectosonora.pdf",
+
+  "primary":"#a5a5a5",
+  "cx": 113,
+  "anim": "76s",
+  "radius": 1.1,
+  "class":"forwards"
+}
+
+
+,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{   "title":"Conexión/(Regresión a otras vidas)",
+  "subtitle":"Guiado por Ana María Pérez",
+  "category":"Prácticas Conectivas",
+  "cat":"conectivas",
+  "description":"Técnica de conexión al mundo trascendente a través de relajación profunda y expansión de conciencia para revisar el origen más remoto de algún tema o evento de la vida que necesite ser resuelto o explorado. Generalmente se le denomina Regresión pero en este caso se lo llama Conexión porque la experiencia con el trabajo del Alma puede llevar al participante tanto a dimensiones del pasado como del futuro. - Guiado por Ana María Pérez",
+
+  "icon" : "../assets/markers/ec1c.svg",
+
+  "date":"25/06/2018",
+  "author":"Eduardo Cerón",
+  "lat":"-33.6206220",
+  "lng": "-70.3376228",
+  "nextlat":"-33.4420406",
+  "nextlng": "-70.6617195",
+  
+
+  "primary":"#826767",
+  "cx": 143,
+  "anim": "94s",
+  "radius": 1.1,
+  "class":"backwards"
+}
+
+,
+
+
+{   "title":"Mindfulness/(Atención Plena)",
+  "subtitle":"Guiado por Ana María Pérez",
+  "category":"Prácticas Conectivas",
+  "cat":"conectivas",
+  "description":"Práctica meditativa centrada en el presente y que utiliza la atención consciente a través de la observación de todo lo que está pasando en el ahora con apertura, amabilidad y sin juicio. - Guiado por Ana María Pérez.",
+
+  "icon" : "../assets/markers/ec1c.svg",
+
+  "date":"25/06/2018",
+  "author":"Eduardo Cerón",
+  "lat":"-33.6206220",
+  "lng": "-70.3376228",
+  "nextlat":"-33.4420406",
+  "nextlng": "-70.6617195",
+  
+
+  "primary":"#826767",
+  "cx": 145,
+  "anim": "74s",
+  "radius": 1.2,
+  "class":"backwards"
+}
+
+,
+
+
+
+{   "title":"Meditación del pensamiento rosa/ (La plena confianza)",
+  "subtitle":"Guiado por Ana María Pérez",
+  "category":"Prácticas Conectivas",
+  "cat":"conectivas",
+  "description":"Mediante la oralidad y la escucha en cómoda posición, propondremos un viaje involutivo hacia la des-diferenciación de nuestras partes evocando un estado morular de pluri-potencialidad, donde nuestra axila vuelve a unirse con nuestra ingle reactivando el flujo lácteo y la autonomía blanca. En plena confianza y en rosa inmersión trabajaremos la mirada compasiva y el potencial de regeneración. - Guiado por Claudio Muñoz",
+
+  "icon" : "../assets/markers/ec1c.svg",
+
+  "date":"25/06/2018",
+  "author":"Eduardo Cerón",
+  "lat":"-33.6206220",
+  "lng": "-70.3376228",
+  "nextlat":"-33.4420406",
+  "nextlng": "-70.6617195",
+  
+
+  "primary":"#826767",
+  "cx": 147,
+  "anim": "94s",
+  "radius": 1.1,
+  "class":"backwards"
+}
+
+,
+
+
+
+{   "title":"Meditación Cénit/(Movimiento del Hacia Sí)",
+  "subtitle":"Guiado por Ana María Pérez",
+  "category":"Prácticas Conectivas",
+  "cat":"conectivas",
+  "description":"Práctica de conexión soma-solar vinculando el plexo solar del cuerpo humano y el astro sol: despertar la visión interna y el canal claro entre el cerebro y el corazón. Se desarrolla al mediodía, a través de la respiración y el imaginario corporal, en una postura simple de meditación. Puede durar 21 minutos. - Guiado por Natalia Ramírez Püschel.",
+
+  "icon" : "../assets/markers/ec1c.svg",
+
+  "date":"25/06/2018",
+  "author":"Eduardo Cerón",
+  "lat":"-33.6206220",
+  "lng": "-70.3376228",
+  "nextlat":"-33.4420406",
+  "nextlng": "-70.6617195",
+  
+
+  "primary":"#826767",
+  "cx": 149,
+  "anim": "90s",
+  "radius": 1.2,
+  "class":"backwards"
+}
+
+,
+
+
+{   "title":"Viaje con la Imaginación",
+  "subtitle":"Guiado por Ana María Pérez",
+  "category":"Prácticas Conectivas",
+  "cat":"conectivas",
+  "description":"A través de “la imaginación puerta de entrada a los mundos sutiles”, haremos un viaje a una creación que es propia en cada uno de nosotros, para mostrar a quien queremos y, recordamos algo que sentimos, y esto tendrá una conexión con lo que veremos: la obra, y nuestro interior. - Guiado por Raúl Valenzuela",
+
+  "icon" : "../assets/markers/ec1c.svg",
+
+  "date":"25/06/2018",
+  "author":"Eduardo Cerón",
+  "lat":"-33.6206220",
+  "lng": "-70.3376228",
+  "nextlat":"-33.4420406",
+  "nextlng": "-70.6617195",
+  
+
+  "primary":"#826767",
+  "cx": 150,
+  "anim": "92s",
+  "radius": 1.1,
+  "class":"backwards"
+}
+
+,
+
+
+{   "title":"Kundalini Yoga",
+  "subtitle":"Guiado por Ana María Pérez",
+  "category":"Prácticas Conectivas",
+  "cat":"conectivas",
+  "description":"Es una práctica milenaria que busca elevar la consciencia por medio de tecnologías que contemplan Asanas(posturas),Mudras (posiciones de manos), Pranayamas(ejercicios de respiración), Bandhas(llaves/cerraduras corporales)y repetición de Mantras (proyección creativa de la mente a través del sonido). A través de sus meditaciones puedes calmar la mente y favorecer el desarrollo de tu intuición para conectar con tu ser original necesario para estos tiempos de cambios. - Guiado por Emilio Edwards",
+
+  "icon" : "../assets/markers/ec1c.svg",
+
+  "date":"25/06/2018",
+  "author":"Eduardo Cerón",
+  "lat":"-33.6206220",
+  "lng": "-70.3376228",
+  "nextlat":"-33.4420406",
+  "nextlng": "-70.6617195",
+  
+
+  "primary":"#826766",
+  "cx": 151,
+  "anim": "95s",
+  "radius": 0.9,
+  "class":"backwards"
+}
+
+,
+
+
+
+
+{   "title":"Mapa #1",
+  "subtitle":"Monochrome 1956",
+  "category":"Prácticas Conectivas",
+  "cat":"conectivas",
+  "description":" ",
+
+  "icon" : "../assets/markers/ec1c.svg",
+
+  "date":"25/06/2018",
+  "author":"Eduardo Cerón",
+  "lat":"-33.6206220",
+  "lng": "-70.3376228",
+  "nextlat":"-33.4420406",
+  "nextlng": "-70.6617195",
+  "audiourl":"../assets/entradas/practicas_conectivas/1.mp3",
+
+  "primary":"#826767",
+  "cx": 143,
+  "anim": "68s",
+  "radius": 1.2,
+  "class":"backwards"
+}
+
+
+,
+
+{   "title":"Meditación relajación profunda",
+  "subtitle":"Monochrome 1956",
+  "category":"Prácticas Conectivas",
+  "cat":"conectivas",
+  "description":" ",
+
+  "icon" : "../assets/markers/ec1c.svg",
+
+  "date":"25/06/2018",
+  "author":"Eduardo Cerón",
+  "lat":"-33.6206220",
+  "lng": "-70.3376228",
+  "nextlat":"-33.4420406",
+  "nextlng": "-70.6617195",
+  "audiourl":"../assets/entradas/practicas_conectivas/mediacion.mp3",
+
+  "primary":"#826767",
+  "cx": 143,
+  "anim": "328s",
+  "radius": 2.2,
+  "class":"backwards"
+}
+
+
+,
+
+{   "title":"Regresión",
+  "subtitle":"Monochrome 1956",
+  "category":"Prácticas Conectivas",
+  "cat":"conectivas",
+  "description":" ",
+
+  "icon" : "../assets/markers/ec1c.svg",
+
+  "date":"25/06/2018",
+  "author":"Eduardo Cerón",
+  "lat":"-33.6206220",
+  "lng": "-70.3376228",
+  "nextlat":"-33.4420406",
+  "nextlng": "-70.6617195",
+  "audiourl":"../assets/entradas/practicas_conectivas/regresion.mp3",
+
+  "primary":"#826767",
+  "cx": 143,
+  "anim": "324s",
+  "radius": 1.8,
+  "class":"backwards"
+}
+
+,
+
+{   "title":"Focusing",
+  "subtitle":"Monochrome 1956",
+  "category":"Prácticas Conectivas",
+  "cat":"conectivas",
+  "description":" ",
+
+  "icon" : "../assets/markers/ec1c.svg",
+
+  "date":"25/06/2018",
+  "author":"Eduardo Cerón",
+  "lat":"-33.6206220",
+  "lng": "-70.3376228",
+  "nextlat":"-33.4420406",
+  "nextlng": "-70.6617195",
+  "audiourl":"../assets/entradas/practicas_conectivas/focusing.mp3",
+
+  "primary":"#826767",
+  "cx": 145,
+  "anim": "386s",
+  "radius": 1.4,
+  "class":"backwards"
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+,
+
+{   "title":"Archivo 1",
+  "subtitle":"Monochrome 1956",
+  "category":"Referencias",
+  "cat":"referencias",
+  "description":"Fikri Amanda Abubakar, INDONESIA",
+
+  "icon" : "../assets/markers/ec1c.svg",
+
+  "date":"25/06/2018",
+  "author":"Eduardo Cerón",
+  "lat":"-33.6206220",
+  "lng": "-70.3376228",
+  "nextlat":"-33.4420406",
+  "nextlng": "-70.6617195",
+  "imageurl":"../assets/entradas/referentes/1.jpg",
+
+  "primary":"rgb(199, 196, 196)",
+  "cx": 185,
+  "anim": "386s",
+  "radius": 1.4,
+  "class":"backwards"
+
+}
+
+,
+
+
+
+{   "title":"Archivo 2",
+  "subtitle":"Monochrome 1956",
+  "category":"Referencias",
+  "cat":"referencias",
+  "description":"Alison McAlpine, “Cielo” (2017)",
+
+  "icon" : "../assets/markers/ec1c.svg",
+
+  "date":"25/06/2018",
+  "author":"Eduardo Cerón",
+  "lat":"-33.6206220",
+  "lng": "-70.3376228",
+  "nextlat":"-33.4420406",
+  "nextlng": "-70.6617195",
+  "imageurl":"../assets/entradas/referentes/2.jpg",
+
+  "primary":"rgb(199, 196, 196)",
+  "cx": 195,
+  "anim": "286s",
+  "radius": 1.1,
+  "class":"backwards"
+
+}
+
+
+,
+
+
+
+
+{   "title":"Archivo 3",
+  "subtitle":"Monochrome 1956",
+  "category":"Referencias",
+  "cat":"referencias",
+  "description":"Fikri Amanda Abubakar, INDONESIA",
+
+  "icon" : "../assets/markers/ec1c.svg",
+
+  "date":"25/06/2018",
+  "author":"Eduardo Cerón",
+  "lat":"-33.6206220",
+  "lng": "-70.3376228",
+  "nextlat":"-33.4420406",
+  "nextlng": "-70.6617195",
+  "imageurl":"../assets/entradas/referentes/3.jpg",
+
+  "primary":"rgb(199, 196, 196)",
+  "cx": 190,
+  "anim": "256s",
+  "radius": 1,
+  "class":"backwards"
+
+}
+
+,
+
+
+
+{   "title":"Archivo 4",
+  "subtitle":"Monochrome 1956",
+  "category":"Referencias",
+  "cat":"referencias",
+  "description":"Rudolf Steiner, Blackboard Drawings, 1919-1924",
+
+  "icon" : "../assets/markers/ec1c.svg",
+
+  "date":"25/06/2018",
+  "author":"Eduardo Cerón",
+  "lat":"-33.6206220",
+  "lng": "-70.3376228",
+  "nextlat":"-33.4420406",
+  "nextlng": "-70.6617195",
+  "imageurl":"../assets/entradas/referentes/4.jpg",
+
+  "primary":"rgb(199, 196, 196)",
+  "cx": 193,
+  "anim": "266s",
+  "radius": 1.2,
+  "class":"backwards"
+
+},
+
+
+{   "title":"Archivo 5",
+  "subtitle":"Monochrome 1956",
+  "category":"Referencias",
+  "cat":"referencias",
+  "description":"Rudolf Steiner, Blackboard Drawings, 1919-1924",
+
+  "icon" : "../assets/markers/ec1c.svg",
+
+  "date":"25/06/2018",
+  "author":"Eduardo Cerón",
+  "lat":"-33.6206220",
+  "lng": "-70.3376228",
+  "nextlat":"-33.4420406",
+  "nextlng": "-70.6617195",
+  "imageurl":"../assets/entradas/referentes/5.jpg",
+
+  "primary":"rgb(199, 196, 195)",
+  "cx": 200,
+  "anim": "226s",
+  "radius": 1.3,
+  "class":"backwards"
+
+},
+
+
+
+{   "title":"Archivo 6",
+  "subtitle":"Monochrome 1956",
+  "category":"Referencias",
+  "cat":"referencias",
+  "description":"David Lynch, Twin Peaks 1990",
+
+  "icon" : "../assets/markers/ec1c.svg",
+
+  "date":"25/06/2018",
+  "author":"Eduardo Cerón",
+  "lat":"-33.6206220",
+  "lng": "-70.3376228",
+  "nextlat":"-33.4420406",
+  "nextlng": "-70.6617195",
+  "imageurl":"../assets/entradas/referentes/6.jpg",
+
+  "primary":"rgb(199, 196, 199)",
+  "cx": 202,
+  "anim": "126s",
+  "radius": 0.9,
+  "class":"backwards"
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+ 
+ 
+
+
+
+    
+
+]
