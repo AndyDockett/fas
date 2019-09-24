@@ -24,7 +24,7 @@ import {NgbModule} from '@ng-bootstrap/ng-bootstrap';
     BrowserModule,
     HttpClientModule,
     AgmCoreModule.forRoot({
-      apiKey: 'AIzaSyAIuCym0re3R67PQcjiakxcMHoxDKhgiUQ'
+      apiKey: ''
     }),
     AgmSnazzyInfoWindowModule,
 
